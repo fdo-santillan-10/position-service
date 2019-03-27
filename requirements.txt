@@ -1,6 +1,6 @@
 opencv-python
 imutils
 numpy
-pyzbar.pyzbar
+pyzbar
 json
 uwsgi
