@@ -1,5 +1,4 @@
-opencv
-cv2
+opencv-python
 imutils
 numpy
 pyzbar.pyzbar
