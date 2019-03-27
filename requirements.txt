@@ -1,3 +1,4 @@
+opencv
 cv2
 imutils
 numpy
